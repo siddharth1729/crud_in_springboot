@@ -19,4 +19,10 @@ public class Application {
 		System.out.printf("=======> Give me a bottle of rum %s!\n", name);
 		return String.format("Give me a bottle of rum %s!", name);
 	}
+
+	@GetMapping("/greeting")
+	public String greeting(@RequestParam(value = "name", defaultValue = "World") String name) {
+		System.out.printf("=======> Give me a bottle of rum greeting %s!\n", name);
+		return String.format("Give me a bottle of rum %s!", name);
+	}
 }

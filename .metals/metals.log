@@ -8028,3 +8028,30 @@ INFO: Unsupported notification method: $/setTrace
 2023.04.06 12:17:38 INFO  compiling spring (1 java source)[0m
 2023.04.06 12:17:38 INFO  time: compiled spring in 7ms[0m
 2023.04.06 12:17:38 ERROR Unexpected error when compiling spring: 'error: invalid target release: 17'[0m
+2023.04.06 12:32:17 INFO  compiling spring (1 java source)[0m
+2023.04.06 12:32:17 INFO  time: compiled spring in 5ms[0m
+2023.04.06 12:32:17 ERROR Unexpected error when compiling spring: 'error: invalid target release: 17'[0m
+2023.04.06 12:32:46 INFO  compiling spring (1 java source)[0m
+2023.04.06 12:32:46 INFO  time: compiled spring in 18ms[0m
+2023.04.06 12:32:46 ERROR Unexpected error when compiling spring: 'error: invalid target release: 17'[0m
+2023.04.06 12:33:40 INFO  compiling spring (1 java source)[0m
+2023.04.06 12:33:40 INFO  time: compiled spring in 4ms[0m
+2023.04.06 12:33:40 ERROR Unexpected error when compiling spring: 'error: invalid target release: 17'[0m
+2023.04.06 12:34:53 INFO  compiling spring (1 java source)[0m
+2023.04.06 12:34:53 INFO  time: compiled spring in 4ms[0m
+2023.04.06 12:34:53 ERROR Unexpected error when compiling spring: 'error: invalid target release: 17'[0m
+2023.04.06 12:35:00 INFO  compiling spring (1 java source)[0m
+2023.04.06 12:35:00 INFO  time: compiled spring in 7ms[0m
+2023.04.06 12:35:00 ERROR Unexpected error when compiling spring: 'error: invalid target release: 17'[0m
+2023.04.06 12:35:12 INFO  compiling spring (1 java source)[0m
+2023.04.06 12:35:12 INFO  time: compiled spring in 6ms[0m
+2023.04.06 12:35:12 ERROR Unexpected error when compiling spring: 'error: invalid target release: 17'[0m
+2023.04.06 12:35:13 INFO  compiling spring (1 java source)[0m
+2023.04.06 12:35:13 INFO  time: compiled spring in 5ms[0m
+2023.04.06 12:35:13 ERROR Unexpected error when compiling spring: 'error: invalid target release: 17'[0m
+2023.04.06 12:35:22 INFO  compiling spring (1 java source)[0m
+2023.04.06 12:35:22 INFO  time: compiled spring in 5ms[0m
+2023.04.06 12:35:22 ERROR Unexpected error when compiling spring: 'error: invalid target release: 17'[0m
+2023.04.06 12:35:43 INFO  compiling spring (1 java source)[0m
+2023.04.06 12:35:43 INFO  time: compiled spring in 11ms[0m
+2023.04.06 12:35:43 ERROR Unexpected error when compiling spring: 'error: invalid target release: 17'[0m
